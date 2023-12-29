@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head><title>CustomRSS</title></head>
+    <body>
+        <outline text="FreeBuf互联网安全新媒体平台" title="FreeBuf互联网安全新媒体平台" type="rss" xmlUrl="https://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com"/>
+        <outline text="安全客" title="安全客" type="rss" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com"/>
+        <outline text="Seebug Paper" title="Seebug Paper" type="rss" xmlUrl="https://paper.seebug.org/rss" htmlUrl="https://paper.seebug.org"/>
+        <outline text="绿盟" title="绿盟" type="rss" xmlUrl="http://blog.nsfocus.net/feed" htmlUrl="http://blog.nsfocus.net"/>
+        <outline text="CNVD漏洞平台" title="CNVD漏洞平台" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/edf17c7a01a7152b7a1ca14133258dc4abc1ca61.xml" htmlUrl="https://wechat2rss.xlab.app/feed/edf17c7a01a7152b7a1ca14133258dc4abc1ca61.xml" />
+        <outline text="奇安信CERT" title="奇安信CERT" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/981c000a01bbdc1f128d260cc91c15d3a6afb530.xml" htmlUrl="https://wechat2rss.xlab.app/feed/981c000a01bbdc1f128d260cc91c15d3a6afb530.xml" />
+        <outline text="腾讯玄武实验室" title="腾讯玄武实验室" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/923c0e2f33b6d39c8a826a90f185725f0edb10e8.xml" htmlUrl="https://wechat2rss.xlab.app/feed/923c0e2f33b6d39c8a826a90f185725f0edb10e8.xml" />
+    </body>
+</opml>
